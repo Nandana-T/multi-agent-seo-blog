@@ -85,7 +85,6 @@ Alternatively, use a .env file in the project root:
 SERPAPI_KEY=your_serpapi_key
 HF_TOKEN=hf_xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
-Then install python-dotenv (already in requirements.txt) and ensure load_dotenv() is used in your agents.
 
 ### 4. Run the Application
 ```bash
