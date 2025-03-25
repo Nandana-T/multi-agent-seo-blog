@@ -40,7 +40,7 @@ The system follows a modular, multi-agent workflow:
 - **Python 3.9+**
 - **SerpApi Key**: For web research (free tier: 100 searches/month).
 - **Hugging Face API Token**: For content generation.
-- 
+
 ## Setup Instructions
 
 ### 1. Clone the Repository
